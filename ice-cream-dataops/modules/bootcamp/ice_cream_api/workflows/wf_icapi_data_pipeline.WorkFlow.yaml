@@ -1,0 +1,2 @@
+externalId : wf_icapi_data_pipeline
+description: Workflow to extract, transform and load data from the Ice Cream API into Cognite Data Fusion

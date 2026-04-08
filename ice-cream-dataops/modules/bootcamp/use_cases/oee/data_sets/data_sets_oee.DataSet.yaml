@@ -1,0 +1,3 @@
+name : Overall Equipment Effectiveness Use Case
+description : This use case focuses on analyzing and improving the overall equipment effectiveness (OEE) of a manufacturing process. It involves collecting data on machine performance, availability, and quality to identify areas for improvement and optimize production efficiency.
+externalId : {{uc_oee_ds_external_id}}
